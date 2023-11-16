@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gnavim
+-  I’m interested in 5G, IoT and ICS
+-  I’m currently learning Cibersecurity
+-  I’m looking to collaborate on security projects
